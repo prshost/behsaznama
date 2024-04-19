@@ -70,3 +70,7 @@ footer {
 .nav ul li.active a {
     background-color: #ebb0b0;
 }
+.content {
+height: 100px;
+    overflow-y: scroll;
+}
